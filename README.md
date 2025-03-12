@@ -26,7 +26,7 @@ Os usuários devem | Users must:
 
 ### Screenshot
 
-![](./design/desktop-design.jpg)
+![](./preview.jpg)
 
 ### Links
 

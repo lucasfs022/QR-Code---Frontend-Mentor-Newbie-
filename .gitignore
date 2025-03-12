@@ -16,9 +16,8 @@
 .prettierignore
 
 # Testing .gitignore
-desgin/
+design/
 images/
-preview.jpg
 README-template.md
 style-guide.md
 
