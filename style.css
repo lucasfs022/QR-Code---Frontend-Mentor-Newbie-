@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Reset CSS básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --white: #fff;
+    --background: #D5E1EF;
+    --text-color: #68778D;
+    --title-color: #1F314F;
+    --title-size: 22px;
+    --title-lh: 120%;
+    --text-size: 15px;
+    --text-lh: 140%;
+}
+
+/* ----> General Styles <---- */
+body {
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
+    background-color: var(--background);
+    padding: 0px 10px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 96vh;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+h1 {
+    color: var(--title-color);
+    font-size: var(--title-size);
+    line-height: var(--title-lh);
+}
+
+p {
+    color: var(--text-color);
+    font-size: var(--text-size);
+    line-height: var(--text-lh);
+    margin-top: 16px;
+}
+
+
+/* ----> QR Code <---- */
+.qr-container {
+    padding: 16px 16px 40px;
+    border-radius: 20px;
+    background-color: var(--white);
+    box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
+    max-width: 320px;
+}
+
+.text-container {
+    margin-top: 24px;
+    text-align: center;
+    padding: 0px 16px;
+}
+
+
+
