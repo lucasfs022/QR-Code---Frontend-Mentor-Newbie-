@@ -15,9 +15,9 @@
 .DS_Store
 .prettierignore
 
-# Testing gitignore
-design
-images
+# Testing .gitignore
+desgin/
+images/
 preview.jpg
 README-template.md
 style-guide.md
