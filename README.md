@@ -31,7 +31,7 @@ Os usuários devem | Users must:
 ### Links
 
 - Solução | Solution: [GitHub Repo](https://github.com/lucasfs022/QR-Code---Frontend-Mentor-Newbie-)
-- Live Site URL: [GitHub live site](https://lucasfs022.github.io/News-Homepage-Main/)
+- Live Site URL: [GitHub live site](https://lucasfs022.github.io/QR-Code---Frontend-Mentor-Newbie-/)
 
 ## Processo | Process
 
